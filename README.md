@@ -1,2 +1,14 @@
-# web_small
-using more web framework to create project
+# web_java\kotlin
+# Java
+# Servlet + htmx
+# JSF
+# Springmvc
+# SpringWebFlux
+# Vert.x
+# Vaadin
+
+# Kotlin
+# ktor
+
+
+
